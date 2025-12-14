@@ -214,8 +214,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Surag29** - [GitHub Profile](https://github.com/surag29)
 
 ### Connect with me:
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [surudev29@gmail.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/surag-devadiga-233477329
 - 🐙 GitHub: [@surag29](https://github.com/surag29)
 
 ---
